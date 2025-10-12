@@ -6368,7 +6368,7 @@ ul.wp-block-latest-posts li:last-child {
   padding: 18px 75px 18px 25px;
   list-style-type: none;
   position: relative;
-  margin: 166px 0 0;
+  margin: 20px 0 0;
   display: inline-block;
   background: var(--theme-color);
   clip-path: polygon(0 0, 100% 0, calc(100% - 50px) 100%, 0% 100%);
@@ -6450,7 +6450,7 @@ ul.wp-block-latest-posts li:last-child {
 
 .breadcumb-wrapper {
   background: var(--title-color);
-  padding: 230px 0 0px;
+  padding: 70px 0 70px 0px;
   margin-top: 116px;
   overflow: hidden;
   position: relative;
