@@ -9713,7 +9713,7 @@ li.trackback {
 
 .map-sec {
   line-height: 0;
-  filter: grayscale(1);
+  /* filter: grayscale(1); */
 }
 .map-sec iframe {
   width: 100%;
@@ -13061,11 +13061,11 @@ li.trackback {
 }
 
 .cta-wrap5 {
-  padding: 65px 100px;
+  padding: 65px 60px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: -150px;
+  margin-bottom: -50px;
   position: relative;
   z-index: 2;
   flex-wrap: wrap;
@@ -13087,7 +13087,7 @@ li.trackback {
 }
 @media (max-width: 1399px) {
   .cta-wrap5 {
-    padding: 65px 70px;
+    padding: 35px 30px;
   }
 }
 @media (max-width: 1199px) {
